@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DF40C_100DS_0.4V_51_'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Hirose", "DF40C-100DS-0.4V(51)" (!) = "", "DF40C100DS04V51", "Other", "798-DF40C100DS0.4V51", "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/DF40C-100DS-0.4V51?qs=eDUdFcBPps2MEwbnuPvZzQ%3D%3D", "HIROSE(HRS) - DF40C-100DS-0.4V(51) - CONNECTOR, STACKING, RCPT, 100POS, 2ROW", "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-7/sf-000141247.pdf"
+END_PART
+
+END.

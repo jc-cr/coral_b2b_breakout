@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "DF40C100DS04V51"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "DF40C100DS04V51")
+        (spec "default")
+    )
+)
